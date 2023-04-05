@@ -1,0 +1,155 @@
+{
+    "header": {
+        "title": "Lanyard Hipster",
+        "display": true,
+        "mainBackground": "",
+        "typer": {
+            "heading": "We Custom",
+            "dataText": [
+                "Lanyard",
+                "Mask",
+                "Keychain"
+            ]
+        }
+    },
+    "banner": {
+        "imgSrc": "\/static\/img\/RibbonBanner.png",
+        "label": null,
+        "title": null,
+        "link": "https:\/\/shopee.com.my\/lanyardhipster"
+    },
+    "items": [
+        {
+            "idx": 27,
+            "imageUrl": "\/static\/img\/sampleLanyard\/2611F2E6-E8FE-4EBF-9FF2-2EB4376A0455.jpeg"
+        },
+        {
+            "idx": 75,
+            "imageUrl": "\/static\/img\/sampleLanyard\/312068D3-9B06-453C-9C88-8229ABFC3175.jpeg"
+        },
+        {
+            "idx": 80,
+            "imageUrl": "\/static\/img\/sampleLanyard\/64A9482A-B8B1-4D13-8B48-83BCD801DD91.jpeg"
+        },
+        {
+            "idx": 49,
+            "imageUrl": "\/static\/img\/sampleLanyard\/857EAE5C-EB0E-4DCF-96EE-6371C98F4002.jpeg"
+        },
+        {
+            "idx": 34,
+            "imageUrl": "\/static\/img\/sampleLanyard\/8D930970-F1FE-43DF-B51A-8C3F6CFDDDF7.jpeg"
+        },
+        {
+            "idx": 32,
+            "imageUrl": "\/static\/img\/sampleLanyard\/AD48C6A4-F975-4C13-BBF1-820706235D8B.jpeg"
+        },
+        {
+            "idx": 8,
+            "imageUrl": "\/static\/img\/sampleLanyard\/C24D4D8C-7C4E-460D-8C0C-09678F4FAF9E.jpeg"
+        },
+        {
+            "idx": 17,
+            "imageUrl": "\/static\/img\/sampleLanyard\/C4EFAFC8-3DB6-45D0-8CD0-EBEA3F5B6E31.jpeg"
+        },
+        {
+            "idx": 80,
+            "imageUrl": "\/static\/img\/sampleLanyard\/E44EA702-A31B-48E4-B27D-85ED031A7469.jpeg"
+        },
+        {
+            "idx": 46,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l10.jpg"
+        },
+        {
+            "idx": 4,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l11.jpg"
+        },
+        {
+            "idx": 48,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l12.jpg"
+        },
+        {
+            "idx": 53,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l13.jpg"
+        },
+        {
+            "idx": 34,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l16.jpg"
+        },
+        {
+            "idx": 22,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l17.jpg"
+        },
+        {
+            "idx": 85,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l18.jpg"
+        },
+        {
+            "idx": 6,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l19.jpg"
+        },
+        {
+            "idx": 35,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l2.jpg"
+        },
+        {
+            "idx": 78,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l20.jpg"
+        },
+        {
+            "idx": 68,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l21.jpg"
+        },
+        {
+            "idx": 88,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l22.jpg"
+        },
+        {
+            "idx": 83,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l23.jpg"
+        },
+        {
+            "idx": 20,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l25.jpg"
+        },
+        {
+            "idx": 32,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l3.jpg"
+        },
+        {
+            "idx": 82,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l4.jpg"
+        },
+        {
+            "idx": 100,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l5.jpg"
+        },
+        {
+            "idx": 13,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l7.jpg"
+        },
+        {
+            "idx": 58,
+            "imageUrl": "\/static\/img\/sampleLanyard\/l9.jpg"
+        },
+        {
+            "idx": 26,
+            "imageUrl": "\/static\/img\/sampleLanyard\/photo_2023-02-19_23-36-01.jpg"
+        },
+        {
+            "idx": 70,
+            "imageUrl": "\/static\/img\/sampleLanyard\/photo_2023-02-19_23-49-13.jpg"
+        },
+        {
+            "idx": 57,
+            "imageUrl": "\/static\/img\/sampleLanyard\/photo_2023-02-19_23-55-46.jpg"
+        },
+        {
+            "idx": 90,
+            "imageUrl": "\/static\/img\/sampleLanyard\/vsvsfvs.jpg"
+        },
+        {
+            "idx": 47,
+            "imageUrl": "\/static\/img\/sampleLanyard\/zebra.jpg"
+        }
+    ]
+}

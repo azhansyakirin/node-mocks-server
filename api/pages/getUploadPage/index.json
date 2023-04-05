@@ -1,0 +1,24 @@
+{
+    "header": {
+        "title": "Resource Template",
+        "display": true,
+        "mainBackground": "\/static\/img\/mainBackground-template.jpg",
+        "typer": {
+            "heading": "We custom",
+            "dataText": [
+                "Lanyard",
+                "Mask",
+                "Keychain"
+            ]
+        }
+    },
+    "dynamicFields": [
+        {
+            "type": "banner",
+            "imgSrc": "/static/img/RibbonBanner.png",
+            "bannerUrl": "https://lanyardhipster.com",
+            "label": "Welcome to Lanyard Hipster"
+        }
+    ],
+    "description": "Download lanyard template in Ai file format here. It's all yours!"
+}
