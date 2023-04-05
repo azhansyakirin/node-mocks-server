@@ -1,0 +1,219 @@
+{
+    "header": {
+        "title": "Design Catalog",
+        "display": true,
+        "mainBackground": "\/static\/img\/mainBackground-design2.jpg",
+        "typer": {
+            "heading": "We custom",
+            "dataText": [
+                "Lanyard",
+                "Mask",
+                "Keychain"
+            ]
+        }
+    },
+    "banner": {
+        "imgSrc": "\/static\/img\/RibbonBanner.png",
+        "label": "",
+        "title": "",
+        "link": "https:\/\/shopee.com.my\/lanyardhipster"
+    },
+    "items": [
+        {
+            "idx": 26,
+            "imageUrl": "\/static\/img\/design\/BSI - MOCKUP-01.png"
+        },
+        {
+            "idx": 5,
+            "imageUrl": "\/static\/img\/design\/D1.png"
+        },
+        {
+            "idx": 44,
+            "imageUrl": "\/static\/img\/design\/D10.jpg"
+        },
+        {
+            "idx": 42,
+            "imageUrl": "\/static\/img\/design\/D11.png"
+        },
+        {
+            "idx": 38,
+            "imageUrl": "\/static\/img\/design\/D12.jpg"
+        },
+        {
+            "idx": 44,
+            "imageUrl": "\/static\/img\/design\/D13.png"
+        },
+        {
+            "idx": 16,
+            "imageUrl": "\/static\/img\/design\/D14.jpg"
+        },
+        {
+            "idx": 48,
+            "imageUrl": "\/static\/img\/design\/D15.png"
+        },
+        {
+            "idx": 51,
+            "imageUrl": "\/static\/img\/design\/D16.jpg"
+        },
+        {
+            "idx": 91,
+            "imageUrl": "\/static\/img\/design\/D17.png"
+        },
+        {
+            "idx": 79,
+            "imageUrl": "\/static\/img\/design\/D18.jpg"
+        },
+        {
+            "idx": 13,
+            "imageUrl": "\/static\/img\/design\/D19.png"
+        },
+        {
+            "idx": 41,
+            "imageUrl": "\/static\/img\/design\/D2.jpg"
+        },
+        {
+            "idx": 56,
+            "imageUrl": "\/static\/img\/design\/D20.jpg"
+        },
+        {
+            "idx": 91,
+            "imageUrl": "\/static\/img\/design\/D21.png"
+        },
+        {
+            "idx": 37,
+            "imageUrl": "\/static\/img\/design\/D22.jpg"
+        },
+        {
+            "idx": 97,
+            "imageUrl": "\/static\/img\/design\/D23.png"
+        },
+        {
+            "idx": 71,
+            "imageUrl": "\/static\/img\/design\/D24.jpg"
+        },
+        {
+            "idx": 24,
+            "imageUrl": "\/static\/img\/design\/D25.jpg"
+        },
+        {
+            "idx": 59,
+            "imageUrl": "\/static\/img\/design\/D26.png"
+        },
+        {
+            "idx": 98,
+            "imageUrl": "\/static\/img\/design\/D27.jpg"
+        },
+        {
+            "idx": 50,
+            "imageUrl": "\/static\/img\/design\/D28.png"
+        },
+        {
+            "idx": 58,
+            "imageUrl": "\/static\/img\/design\/D29.jpg"
+        },
+        {
+            "idx": 20,
+            "imageUrl": "\/static\/img\/design\/D3.png"
+        },
+        {
+            "idx": 56,
+            "imageUrl": "\/static\/img\/design\/D30.png"
+        },
+        {
+            "idx": 7,
+            "imageUrl": "\/static\/img\/design\/D31.jpg"
+        },
+        {
+            "idx": 11,
+            "imageUrl": "\/static\/img\/design\/D31.png"
+        },
+        {
+            "idx": 66,
+            "imageUrl": "\/static\/img\/design\/D32.jpg"
+        },
+        {
+            "idx": 16,
+            "imageUrl": "\/static\/img\/design\/D33.jpg"
+        },
+        {
+            "idx": 86,
+            "imageUrl": "\/static\/img\/design\/D34.jpg"
+        },
+        {
+            "idx": 30,
+            "imageUrl": "\/static\/img\/design\/D35.jpg"
+        },
+        {
+            "idx": 58,
+            "imageUrl": "\/static\/img\/design\/D36.jpg"
+        },
+        {
+            "idx": 23,
+            "imageUrl": "\/static\/img\/design\/D37.jpg"
+        },
+        {
+            "idx": 26,
+            "imageUrl": "\/static\/img\/design\/D38.jpg"
+        },
+        {
+            "idx": 1,
+            "imageUrl": "\/static\/img\/design\/D39.jpg"
+        },
+        {
+            "idx": 30,
+            "imageUrl": "\/static\/img\/design\/D4.jpg"
+        },
+        {
+            "idx": 81,
+            "imageUrl": "\/static\/img\/design\/D40.png"
+        },
+        {
+            "idx": 73,
+            "imageUrl": "\/static\/img\/design\/D41.png"
+        },
+        {
+            "idx": 60,
+            "imageUrl": "\/static\/img\/design\/D42.png"
+        },
+        {
+            "idx": 66,
+            "imageUrl": "\/static\/img\/design\/D43.png"
+        },
+        {
+            "idx": 5,
+            "imageUrl": "\/static\/img\/design\/D44.png"
+        },
+        {
+            "idx": 72,
+            "imageUrl": "\/static\/img\/design\/D45.png"
+        },
+        {
+            "idx": 34,
+            "imageUrl": "\/static\/img\/design\/D46.png"
+        },
+        {
+            "idx": 18,
+            "imageUrl": "\/static\/img\/design\/D47.png"
+        },
+        {
+            "idx": 53,
+            "imageUrl": "\/static\/img\/design\/D5.png"
+        },
+        {
+            "idx": 45,
+            "imageUrl": "\/static\/img\/design\/D6.jpg"
+        },
+        {
+            "idx": 70,
+            "imageUrl": "\/static\/img\/design\/D7.png"
+        },
+        {
+            "idx": 32,
+            "imageUrl": "\/static\/img\/design\/D8.jpg"
+        },
+        {
+            "idx": 88,
+            "imageUrl": "\/static\/img\/design\/D9.png"
+        }
+    ]
+}

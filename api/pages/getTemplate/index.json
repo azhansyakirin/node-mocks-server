@@ -1,0 +1,23 @@
+{
+    "header": {
+        "title": "Resource Template",
+        "display": true,
+        "mainBackground": "\/static\/img\/mainBackground-template.jpg",
+        "typer": {
+            "heading": "We custom",
+            "dataText": [
+                "Lanyard",
+                "Mask",
+                "Keychain"
+            ]
+        }
+    },
+    "banner": {
+        "imgSrc": "\/static\/img\/LanyardSize.png",
+        "idx": 1,
+        "label": "Our Size",
+        "title": "Lanyard Size",
+        "link": ""
+    },
+    "description": "Download lanyard template in Ai file format here. It's all yours!"
+}

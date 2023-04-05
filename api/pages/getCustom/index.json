@@ -1,0 +1,213 @@
+{
+    "header": {
+        "title": "Custom Lanyard",
+        "display": true,
+        "mainBackground": "\/static\/img\/mainBackground.png",
+        "typer": {
+            "heading": "We Custom",
+            "dataText": [
+                "Lanyard",
+                "Mask",
+                "Keychain"
+            ]
+        }
+    },
+    "banner": {
+        "imgSrc": "\/static\/img\/LanyardSize.png",
+        "idx": 1,
+        "label": "Our Size",
+        "title": "Lanyard Size",
+        "link": ""
+    },
+    "description": "Di Lanyard Hipster, anda boleh juga bla bla bla bla bla <a href=\"/static/docs/CustomLanyard-PriceSheet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>",
+    "accessoriesIntro": "Various accessories we offer to you to be added on your lanyard. You can customise in your own way!",
+    "priceIntro": "Compare our price. We guaranteed your satisfaction!",
+    "buckleLanyard": {
+        "title": "Lanyard With Buckle And Hook",
+        "size": "15\/20\/25MM",
+        "acc": "Buckle",
+        "hook": "Oval\/Lobster\/J-hook\/O-ring",
+        "material": "Nylon Silk",
+        "print": "Sublimation",
+        "img": "\/static\/img\/type\/type_a.png",
+        "price": [
+            {
+                "idx": "1",
+                "pricerange": "30-49",
+                "price1": "8.90",
+                "price2": "8.40"
+            },
+            {
+                "idx": "2",
+                "pricerange": "50-99",
+                "price1": "8.40",
+                "price2": "7.90"
+            },
+            {
+                "idx": "3",
+                "pricerange": "100-199",
+                "price1": "7.80",
+                "price2": "7.30"
+            },
+            {
+                "idx": "4",
+                "pricerange": "200-299",
+                "price1": "7.20",
+                "price2": "6.70"
+            },
+            {
+                "idx": "5",
+                "pricerange": "300-399",
+                "price1": "6.60",
+                "price2": "6.10"
+            },
+            {
+                "idx": "6",
+                "pricerange": "400-599",
+                "price1": "6.00",
+                "price2": "5.50"
+            }
+        ]
+    },
+    "hookLanyard": {
+        "title": "Lanyard With Hook",
+        "size": "15\/20\/25MM",
+        "acc": "none",
+        "hook": "Oval\/Lobster\/J-hook\/O-ring",
+        "material": "Nylon Silk",
+        "print": "Sublimation",
+        "img": "\/static\/img\/type\/type_b.png",
+        "price": [
+            {
+                "idx": "7",
+                "pricerange": "30-49",
+                "price1": "8.40",
+                "price2": "7.90"
+            },
+            {
+                "idx": "8",
+                "pricerange": "50-99",
+                "price1": "7.90",
+                "price2": "7.40"
+            },
+            {
+                "idx": "9",
+                "pricerange": "100-199",
+                "price1": "7.30",
+                "price2": "6.80"
+            },
+            {
+                "idx": "10",
+                "pricerange": "200-299",
+                "price1": "6.70",
+                "price2": "6.20"
+            },
+            {
+                "idx": "11",
+                "pricerange": "300-399",
+                "price1": "6.10",
+                "price2": "5.60"
+            },
+            {
+                "idx": "12",
+                "pricerange": "400-599",
+                "price1": "5.50",
+                "price2": "5.00"
+            }
+        ]
+    },
+    "safetyClipBuckleLanyard": {
+        "title": "Lanyard With Safety Clip, Buckle and Hook",
+        "size": "15\/20\/25MM",
+        "acc": "Buckle, Safety Clip",
+        "hook": "Oval\/Lobster\/J-hook\/O-ring",
+        "material": "Nylon Silk",
+        "print": "Sublimation",
+        "img": "\/static\/img\/type\/type_c.png",
+        "price": [
+            {
+                "idx": "13",
+                "pricerange": "30-49",
+                "price1": "9.90",
+                "price2": "9.40"
+            },
+            {
+                "idx": "14",
+                "pricerange": "50-99",
+                "price1": "9.40",
+                "price2": "8.90"
+            },
+            {
+                "idx": "15",
+                "pricerange": "100-199",
+                "price1": "8.80",
+                "price2": "8.30"
+            },
+            {
+                "idx": "16",
+                "pricerange": "200-299",
+                "price1": "8.20",
+                "price2": "7.70"
+            },
+            {
+                "idx": "17",
+                "pricerange": "300-399",
+                "price1": "7.60",
+                "price2": "7.10"
+            },
+            {
+                "idx": "18",
+                "pricerange": "400-599",
+                "price1": "7.00",
+                "price2": "6.50"
+            }
+        ]
+    },
+    "safetyClipHookLanyard": {
+        "title": "Lanyard With Safety Clip and Hook",
+        "size": "15\/20\/25MM",
+        "acc": "Safety Clip",
+        "hook": "Oval\/Lobster\/J-hook\/O-ring",
+        "material": "Nylon Silk",
+        "print": "Sublimation",
+        "img": "\/static\/img\/type\/type_d.png",
+        "price": [
+            {
+                "idx": "19",
+                "pricerange": "30-49",
+                "price1": "9.40",
+                "price2": "8.90"
+            },
+            {
+                "idx": "20",
+                "pricerange": "50-99",
+                "price1": "8.90",
+                "price2": "8.40"
+            },
+            {
+                "idx": "21",
+                "pricerange": "100-199",
+                "price1": "8.30",
+                "price2": "7.80"
+            },
+            {
+                "idx": "22",
+                "pricerange": "200-299",
+                "price1": "7.70",
+                "price2": "7.20"
+            },
+            {
+                "idx": "23",
+                "pricerange": "300-399",
+                "price1": "7.10",
+                "price2": "6.60"
+            },
+            {
+                "idx": "24",
+                "pricerange": "400-599",
+                "price1": "6.50",
+                "price2": "6.00"
+            }
+        ]
+    }
+}

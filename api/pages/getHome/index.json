@@ -1,0 +1,22 @@
+{
+    "header": {
+        "title": "Lanyard Hipster",
+        "display": true,
+        "mainBackground": "\/static\/img\/mainBackground-cmyk2.jpg",
+        "typer": {
+            "heading": "We Custom",
+            "dataText": [
+                "Lanyard",
+                "Mask",
+                "Keychain"
+            ]
+        }
+    },
+    "banner": {
+        "imgSrc": "\/static\/img\/WebBanner.png",
+        "label": "",
+        "title": "",
+        "link": "https:\/\/shopee.com.my\/lanyardhipster"
+    },
+    "introduction": "was established in 2017. We are focusing on providing various types of lanyard consist of readystock and custom lanyard and keychain."
+}

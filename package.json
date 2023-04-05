@@ -1,0 +1,29 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "Mock server for Lanyard Hipster",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run local",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mock-server-lanyard"
+  },
+  "keywords": [
+    "mock",
+    "server"
+  ],
+  "author": "azhan syakirin",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
