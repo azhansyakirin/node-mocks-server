@@ -4,14 +4,17 @@ const routes = [
     'getGoogleReview',
     'getSample',
     'getAnalyticsData',
-    'getSampleDesign'
+    'getSampleDesign',
+    'getSampleLanyard'
 ];
 
 const pageRoutes = [
     'getHome',
     'getCustom',
     'getDesign',
-    'getTemplate'
+    'getTemplate',
+    'getSampleLanyard',
+    'getUploadPage'
 ];
 
 module.exports = { routes, pageRoutes };
