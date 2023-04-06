@@ -6,7 +6,7 @@ const path = require('path');
 
 const { routes, pageRoutes } = require('./api/routes');
 
-console.log({Route : routes, PageRoute : pageRoutes})
+// console.log({Route : routes, PageRoute : pageRoutes})
 
 app.use(cors());
 
