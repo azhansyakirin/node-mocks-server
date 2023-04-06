@@ -1,4 +1,16 @@
 {
+    "header": {
+        "display": true,
+        "title": "Dynamic Page",
+        "mainBackground": "/static/img/mainBackground-cmyk1.jpg",
+        "typer": {
+            "heading": "This is",
+            "dataText": [
+                "Text1",
+                "Text2"
+            ]
+        }
+    },
     "dynamicFields": [
         {
             "type": "text",
@@ -62,6 +74,23 @@
                     ]
                 }
             ]
+        },
+        {
+            "type": "hero",
+            "field": {
+                "header": {
+                    "display": true,
+                    "title": "Violencing Fake Banking",
+                    "mainBackground": "/static/img/mainBackground-cmyk1.jpg",
+                    "typer": {
+                        "heading": "This is",
+                        "dataText": [
+                            "Text1",
+                            "Text2"
+                        ]
+                    }
+                }
+            }
         }
     ]
 }
