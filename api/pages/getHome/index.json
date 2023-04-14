@@ -4,7 +4,7 @@
         "display": true,
         "mainBackground": "\/static\/img\/mainBackground-unsplash.jpg",
         "typer": {
-            "heading": "We Custom",
+            "heading": "We Readystock",
             "dataText": [
                 "Lanyard",
                 "Mask",
@@ -18,5 +18,264 @@
         "title": "",
         "link": "https:\/\/shopee.com.my\/lanyardhipster"
     },
-    "introduction": "was established in 2017. We are focusing on providing various types of lanyard consist of readystock and custom lanyard and keychain."
+    "introduction": "was established in 2017. We are focusing on providing various types of lanyard consist of readystock and custom lanyard and keychain. We are Malaysian, for Malaysia !",
+    "dynamicFields": [
+        {
+            "type": "container",
+            "colSize":{
+                "sm": 12,
+                "md": 12,
+                "lg": 12
+            },
+            "items": [
+                {
+                    "type":"text",
+                    "mode":"titleText",
+                    "customClass":"noPadMargin",
+                    "value":"our products"
+                },
+                {
+                    "type":"text",
+                    "customClass":"noPadMargin",
+                    "value":"Readystock and Customize Lanyard is here"
+                },
+                {
+                    "type": "productCatalogue",
+                    "items":[
+                        {
+                            "src":"static/img/alyssa.jpg",
+                            "price":"RM 15.00",
+                            "label":"Alyssa",
+                            "collection":"Collection Name : Layar",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/23617091072/"
+                            }
+                        },
+                        {
+                            "src":"static/img/fuzzy.jpg",
+                            "price":"RM 15.00",
+                            "label":"Fuzzy",
+                            "collection":"Collection Name : Layar",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/18070773736/"
+                            }
+                        },
+                        {
+                            "src":"static/img/mystery.jpg",
+                            "price":"RM 15.00",
+                            "label":"Mystery",
+                            "collection":"Collection Name : Layar",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/22805250478/"
+                            }
+                        },
+                        {
+                            "src":"static/img/mockLanyard.png",
+                            "price":"RM 15.00",
+                            "label":"Mock",
+                            "collection":"Collection Name : Customize",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/blacxy.jpg",
+                            "price":"RM 15.00",
+                            "label":"Blacxy",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/rosxy.jpg",
+                            "price":"RM 15.00",
+                            "label":"Rosxy",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/mixy.jpg",
+                            "price":"RM 15.00",
+                            "label":"Mixy",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/confetti.jpg",
+                            "price":"RM 15.00",
+                            "label":"Confetti",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/tropicalblack.jpg",
+                            "price":"RM 15.00",
+                            "label":"Tropical Black",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/signature.jpg",
+                            "price":"RM 15.00",
+                            "label":"Signature",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/florest.jpg",
+                            "price":"RM 15.00",
+                            "label":"Florest",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/venom.jpg",
+                            "price":"RM 15.00",
+                            "label":"Venom",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/electro.jpg",
+                            "price":"RM 15.00",
+                            "label":"Electro",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/cyberlux.jpg",
+                            "price":"RM 15.00",
+                            "label":"Cyberlux",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/galaxy.jpg",
+                            "price":"RM 15.00",
+                            "label":"Galaxy",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/royale.jpg",
+                            "price":"RM 15.00",
+                            "label":"Royale",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/blackout.jpg",
+                            "price":"RM 15.00",
+                            "label":"Blackout",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/emerald.jpg",
+                            "price":"RM 15.00",
+                            "label":"Emerald",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/navy.jpg",
+                            "price":"RM 15.00",
+                            "label":"Navy",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/magenta.jpg",
+                            "price":"RM 15.00",
+                            "label":"Magenta",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        },
+                        {
+                            "src":"static/img/productcatalog/majestic.jpg",
+                            "price":"RM 15.00",
+                            "label":"Majestic",
+                            "collection":"Collection Name : UiTM",
+                            "description":"Type : Readystock",
+                            "button":{
+                                "label":"Buy now",
+                                "url":"https://shopee.com.my/product/47909829/7636845071/"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

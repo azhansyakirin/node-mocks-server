@@ -5,7 +5,8 @@ const routes = [
     'getSample',
     'getAnalyticsData',
     'getSampleDesign',
-    'getSampleLanyard'
+    'getSampleLanyard',
+    'submitFeedback'
 ];
 
 const pageRoutes = [
@@ -16,5 +17,7 @@ const pageRoutes = [
     'getSampleLanyard',
     'getUploadPage'
 ];
+
+console.log({...routes, ...pageRoutes})
 
 module.exports = { routes, pageRoutes };
