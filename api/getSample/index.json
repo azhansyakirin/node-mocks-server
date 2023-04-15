@@ -10,11 +10,6 @@
         "label": "Uniklinik"
     },
     {
-        "idx": "2",
-        "src": "\/static\/img\/l4.jpg",
-        "label": "Kelas Mengaji Profesional"
-    },
-    {
         "idx": "3",
         "src": "\/static\/img\/l12.jpg",
         "label": "Highlight Co"
@@ -25,58 +20,8 @@
         "label": "Malakat Mall"
     },
     {
-        "idx": "5",
-        "src": "\/static\/img\/l13.jpg",
-        "label": "Lazada"
-    },
-    {
-        "idx": "6",
-        "src": "\/static\/img\/l16.jpg",
-        "label": "Mesin Jahat"
-    },
-    {
-        "idx": "7",
-        "src": "\/static\/img\/l7.jpg",
-        "label": "Mili Express"
-    },
-    {
-        "idx": "8",
-        "src": "\/static\/img\/l17.jpg",
-        "label": "Hannan Medispa"
-    },
-    {
-        "idx": "9",
-        "src": "\/static\/img\/l18.jpg",
-        "label": "Mrsm Arau"
-    },
-    {
-        "idx": "10",
-        "src": "\/static\/img\/l19.jpg",
-        "label": "Boathouse"
-    },
-    {
-        "idx": "11",
-        "src": "\/static\/img\/l20.jpg",
-        "label": "KKM V3"
-    },
-    {
-        "idx": "12",
-        "src": "\/static\/img\/l21.jpg",
-        "label": "Amjad Umrahajj"
-    },
-    {
-        "idx": "13",
-        "src": "\/static\/img\/l22.jpg",
-        "label": "AOV"
-    },
-    {
         "idx": "14",
         "src": "\/static\/img\/l23.jpg",
         "label": "Quadra Virtual"
-    },
-    {
-        "idx": "15",
-        "src": "\/static\/img\/l25.jpg",
-        "label": "Aisy Sofea"
     }
 ]
