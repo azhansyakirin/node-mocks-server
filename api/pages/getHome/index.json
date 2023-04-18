@@ -1,8 +1,9 @@
 {
     "header": {
-        "title": "Kedai Sek Kito Boh",
+        "title": "Wear It Proudly",
         "display": true,
-        "mainBackground": "\/static\/img\/mainBackground-unsplash.jpg",
+        "mainBackground": "\/static\/img\/mainBackground\/mainBackground-pelita.jpg",
+        "attb":"https://unsplash.com/@redaquamedia",
         "typer": {
             "heading": "We Readystock",
             "dataText": [
@@ -13,9 +14,9 @@
         }
     },
     "banner": {
-        "imgSrc": "\/static\/img\/WebBanner.png",
-        "label": "",
-        "title": "",
+        "imgSrc": "\/static\/img\/WebBanner-raya.png",
+        "label": "Selamat Hari Raya Aidilfitri",
+        "title": "Follow us!",
         "link": "https:\/\/shopee.com.my\/lanyardhipster"
     },
     "introduction": "was established in 2017. We are focusing on providing various types of lanyard consist of readystock and custom lanyard and keychain. We are Malaysian, for Malaysia !",
@@ -37,7 +38,7 @@
                 {
                     "type": "text",
                     "customClass": "noPadMargin",
-                    "value": "All displayed below are readystock products! Grab it now while stock last."
+                    "value": "Premium, Elegant, Luxury. Designed for you to be bold and embrace you looks!"
                 },
                 {
                     "type": "productCatalogue",
@@ -85,6 +86,21 @@
                             "button": {
                                 "label": "Buy Now",
                                 "url": "https:\/\/shopee.com.my\/product\/47909829\/22805250478\/"
+                            }
+                        },
+                        {
+                            "sku": "kkm_v4_004",
+                            "price": "RM 15",
+                            "label": "Nation Hero",
+                            "src": "static\/img\/productcatalog\/kkm.jpg",
+                            "collection": "KKM",
+                            "description": "Readystock",
+                            "size": "25mm",
+                            "url": "https://shopee.com.my/product/47909829/10941569170/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https://shopee.com.my/product/47909829/10941569170/"
                             }
                         },
                         {
