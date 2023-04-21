@@ -12,13 +12,25 @@ app.use(cors());
 
 routes.map(route => {
     app.get(`/api/${route}`, (req, res) => {
-        res.sendFile(path.join(__dirname, `api/${route}/index.json`));
+        try {
+            const jsonPath = path.join(__dirname, `api/${route}/index.json`);
+            const jsonData = require(jsonPath);
+            res.json(jsonData);
+        } catch (error) {
+            res.status(500).json({ error: { message: 'Unable to parse the response [200]' } });
+        }
     });
 });
 
 pageRoutes.forEach(route => {
     app.get(`/api/pages/${route}`, (req, res) => {
-        res.sendFile(path.join(__dirname, `api/pages/${route}/index.json`));
+        try {
+            const jsonPath = path.join(__dirname, `api/pages/${route}/index.json`);
+            const jsonData = require(jsonPath);
+            res.json(jsonData);
+        } catch (error) {
+            res.status(500).json({ error: { message: 'Unable to parse the response [200]' } });
+        }
     });
 });
 
