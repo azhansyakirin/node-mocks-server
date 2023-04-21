@@ -1,96 +1,61 @@
 {
     "header": {
         "display": true,
-        "title": "Dynamic Page",
-        "mainBackground": "/static/img/mainBackground-cmyk1.jpg",
-        "typer": {
-            "heading": "This is",
-            "dataText": [
-                "Text1",
-                "Text2"
-            ]
-        }
+        "title": "Our Products",
+        "mainBackground": "/static/img/mainBackground-cmyk1.jpg"
     },
     "dynamicFields": [
         {
-            "type": "text",
-            "value": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        },
-        {
             "type": "ribbonBanner",
             "imgSrc": "/static/img/RibbonBanner.png",
-            "bannerUrl": "https://lanyardhipster.com",
-            "label": "Welcome to Lanyard Hipster"
+            "link": "https://lanyardhipster.com"
+        },
+        {
+            "type": "text",
+            "mode": "titleText",
+            "customClass": "noPadMargin",
+            "value": "our products"
+        },
+        {
+            "type": "text",
+            "value": "Varios of design available in our stores. Choose yours!"
         },
         {
             "type": "container",
             "colSize": {
                 "sm": 12,
-                "md": 6,
-                "lg": 8
+                "md": 12,
+                "lg": 12
             },
             "items": [
-                {
-                    "type": "text",
-                    "fontType": "Monolisa",
-                    "color": "Green",
-                    "customClass": "bigFont",
-                    "value": "This item is inside container"
-                },
-                {
-                    "type": "container",
-                    "colSize": {
-                        "sm": 12,
-                        "md": 4,
-                        "lg": 4
-                    },
-                    "items": [
+
                         {
                             "type": "select",
-                            "isSearchable": true,
+                            "isSearchable": false,
                             "options": [
                                 {
                                     "id": 1,
-                                    "value": "Lanyard with Buckle",
+                                    "value": "A001",
                                     "label": "Lanyard with Buckle"
                                 },
                                 {
                                     "id": 2,
-                                    "value": "Lanyard without Buckle",
+                                    "value": "A002",
                                     "label": "Lanyard without Buckle"
                                 },
                                 {
                                     "id": 3,
-                                    "value": "Lanyard with Buckle and Safety Clip",
+                                    "value": "A003",
                                     "label": "Lanyard with Buckle and Safety Clip"
                                 },
                                 {
                                     "id": 4,
-                                    "value": "Lanyard without Buckle and Safety Clip",
+                                    "value": "A004",
                                     "label": "Lanyard without Buckle and Safety Clip"
                                 }
                             ]
                         }
-                    ]
-                }
             ]
-        },
-        {
-            "type": "hero",
-            "field": {
-                "header": {
-                    "display": true,
-                    "title": "Violencing Fake Banking",
-                    "mainBackground": "/static/img/mainBackground-cmyk1.jpg",
-                    "typer": {
-                        "heading": "This is",
-                        "dataText": [
-                            "Text1",
-                            "Text2"
-                        ]
-                    }
-                }
-            }
         }
     ]
 }

@@ -13,7 +13,7 @@
         }
     },
     "banner": {
-        "imgSrc": "\/static\/img\/RibbonBanner.png",
+        "imgSrc": "\/static\/img\/Ribbon Banner\/RibbonBanner-Raya.png",
         "label": "",
         "title": "",
         "link": "https:\/\/shopee.com.my\/lanyardhipster"
@@ -21,199 +21,175 @@
     "items": [
         {
             "idx": 26,
-            "imageUrl": "\/static\/img\/design\/BSI - MOCKUP-01.png"
+            "src": "\/static\/img\/design\/aisysoffea.jpg",
+            "label": "Aisysoffea"
         },
         {
             "idx": 5,
-            "imageUrl": "\/static\/img\/design\/D1.png"
+            "src": "\/static\/img\/design\/cpalm.jpg",
+            "label": "CPALM"
         },
         {
             "idx": 44,
-            "imageUrl": "\/static\/img\/design\/D10.jpg"
+            "src": "\/static\/img\/design\/flv2.jpg",
+            "label": "Future Leader",
+            "description": "SK Taman Bukit Indah"
         },
         {
             "idx": 42,
-            "imageUrl": "\/static\/img\/design\/D11.png"
+            "src": "\/static\/img\/design\/ifesb mockup.jpg",
+            "label": "IFESB"
         },
         {
             "idx": 38,
-            "imageUrl": "\/static\/img\/design\/D12.jpg"
+            "src": "\/static\/img\/design\/ipgkkb.jpg",
+            "label": "IPG Kampus Kota Bharu"
         },
         {
             "idx": 44,
-            "imageUrl": "\/static\/img\/design\/D13.png"
+            "src": "\/static\/img\/design\/jkptg.jpg",
+            "label": "Jkptg"
         },
         {
             "idx": 16,
-            "imageUrl": "\/static\/img\/design\/D14.jpg"
+            "src": "\/static\/img\/design\/jpat.jpg",
+            "label": "Jabatan Pathology"
         },
         {
             "idx": 48,
-            "imageUrl": "\/static\/img\/design\/D15.png"
+            "src": "\/static\/img\/design\/mstg.jpg",
+            "label": "Maktab Sains Tok Guru"
         },
         {
             "idx": 51,
-            "imageUrl": "\/static\/img\/design\/D16.jpg"
+            "src": "\/static\/img\/design\/naseehat.jpg",
+            "label": "Naseehat"
         },
         {
             "idx": 91,
-            "imageUrl": "\/static\/img\/design\/D17.png"
-        },
-        {
-            "idx": 79,
-            "imageUrl": "\/static\/img\/design\/D18.jpg"
-        },
-        {
-            "idx": 13,
-            "imageUrl": "\/static\/img\/design\/D19.png"
-        },
-        {
-            "idx": 41,
-            "imageUrl": "\/static\/img\/design\/D2.jpg"
-        },
-        {
-            "idx": 56,
-            "imageUrl": "\/static\/img\/design\/D20.jpg"
+            "src": "\/static\/img\/design\/highlightco.jpg",
+            "label": "Highlight Co"
         },
         {
             "idx": 91,
-            "imageUrl": "\/static\/img\/design\/D21.png"
+            "src": "\/static\/img\/design\/binaIhsan.jpg",
+            "label": "Bina Ihsan"
         },
         {
-            "idx": 37,
-            "imageUrl": "\/static\/img\/design\/D22.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/keramat.jpg",
+            "label": "Keramat"
         },
         {
-            "idx": 97,
-            "imageUrl": "\/static\/img\/design\/D23.png"
+            "idx": 91,
+            "src": "\/static\/img\/design\/kkm.jpg",
+            "label": "Kementerian Kesihatan Malaysia"
         },
         {
-            "idx": 71,
-            "imageUrl": "\/static\/img\/design\/D24.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/redipay.jpg",
+            "label": "Redipay"
         },
         {
-            "idx": 24,
-            "imageUrl": "\/static\/img\/design\/D25.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/amjad.jpg",
+            "label": "Amjad Umrahajj"
         },
         {
-            "idx": 59,
-            "imageUrl": "\/static\/img\/design\/D26.png"
+            "idx": 91,
+            "src": "\/static\/img\/design\/hctm.jpg",
+            "label": "Hctm"
         },
         {
-            "idx": 98,
-            "imageUrl": "\/static\/img\/design\/D27.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/ipg perlis.jpg",
+            "label": "Ipg Perlis"
         },
         {
-            "idx": 50,
-            "imageUrl": "\/static\/img\/design\/D28.png"
+            "idx": 91,
+            "src": "\/static\/img\/design\/kkpj9.jpg",
+            "label": "Kkpj9"
         },
         {
-            "idx": 58,
-            "imageUrl": "\/static\/img\/design\/D29.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/stm.jpg",
+            "label": "Stm Nih"
         },
         {
-            "idx": 20,
-            "imageUrl": "\/static\/img\/design\/D3.png"
+            "idx": 91,
+            "src": "\/static\/img\/design\/boathouse.jpg",
+            "label": "Boathouse"
         },
         {
-            "idx": 56,
-            "imageUrl": "\/static\/img\/design\/D30.png"
+            "idx": 91,
+            "src": "\/static\/img\/design\/faqiyshope.jpg",
+            "label": "Faqiyshope"
         },
         {
-            "idx": 7,
-            "imageUrl": "\/static\/img\/design\/D31.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/fse umk.jpg",
+            "label": "FSE UMK"
         },
         {
-            "idx": 11,
-            "imageUrl": "\/static\/img\/design\/D31.png"
+            "idx": 91,
+            "src": "\/static\/img\/design\/kkm dental.jpg",
+            "label": "KKM Dental"
         },
         {
-            "idx": 66,
-            "imageUrl": "\/static\/img\/design\/D32.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/kuroda.jpg",
+            "label": "Kuroda Electric"
         },
         {
-            "idx": 16,
-            "imageUrl": "\/static\/img\/design\/D33.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/mrsm arau.jpg",
+            "label": "MRSM Arau"
         },
         {
-            "idx": 86,
-            "imageUrl": "\/static\/img\/design\/D34.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/panasonic.jpg",
+            "label": "Panasonic Malaysia"
         },
         {
-            "idx": 30,
-            "imageUrl": "\/static\/img\/design\/D35.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/perodua.jpg",
+            "label": "Perodua Kemaman"
         },
         {
-            "idx": 58,
-            "imageUrl": "\/static\/img\/design\/D36.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/petron.jpg",
+            "label": "Petron Daelim"
         },
         {
-            "idx": 23,
-            "imageUrl": "\/static\/img\/design\/D37.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/pkct.jpg",
+            "label": "Port Klang Cruise Terminal"
         },
         {
-            "idx": 26,
-            "imageUrl": "\/static\/img\/design\/D38.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/sispa unisel.jpg",
+            "label": "Sispa Unisel"
         },
         {
-            "idx": 1,
-            "imageUrl": "\/static\/img\/design\/D39.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/srm.jpg",
+            "label": "Sekretariat Rakan Muda UMK"
         },
         {
-            "idx": 30,
-            "imageUrl": "\/static\/img\/design\/D4.jpg"
+            "idx": 91,
+            "src": "\/static\/img\/design\/tudungzone.jpg",
+            "label": "Tudungzone"
         },
         {
-            "idx": 81,
-            "imageUrl": "\/static\/img\/design\/D40.png"
-        },
-        {
-            "idx": 73,
-            "imageUrl": "\/static\/img\/design\/D41.png"
-        },
-        {
-            "idx": 60,
-            "imageUrl": "\/static\/img\/design\/D42.png"
-        },
-        {
-            "idx": 66,
-            "imageUrl": "\/static\/img\/design\/D43.png"
-        },
-        {
-            "idx": 5,
-            "imageUrl": "\/static\/img\/design\/D44.png"
-        },
-        {
-            "idx": 72,
-            "imageUrl": "\/static\/img\/design\/D45.png"
-        },
-        {
-            "idx": 34,
-            "imageUrl": "\/static\/img\/design\/D46.png"
-        },
-        {
-            "idx": 18,
-            "imageUrl": "\/static\/img\/design\/D47.png"
-        },
-        {
-            "idx": 53,
-            "imageUrl": "\/static\/img\/design\/D5.png"
-        },
-        {
-            "idx": 45,
-            "imageUrl": "\/static\/img\/design\/D6.jpg"
-        },
-        {
-            "idx": 70,
-            "imageUrl": "\/static\/img\/design\/D7.png"
-        },
-        {
-            "idx": 32,
-            "imageUrl": "\/static\/img\/design\/D8.jpg"
-        },
-        {
-            "idx": 88,
-            "imageUrl": "\/static\/img\/design\/D9.png"
+            "idx": 91,
+            "src": "\/static\/img\/design\/upsi.jpg",
+            "label": "UPSI Esport"
         }
-    ]
+    ],
+    "promo":{
+        "imgSrc": "\/static\/img\/Ribbon Banner\/RibbonBanner-Election.png",
+        "label": "",
+        "title": "Promo Election",
+        "link": "https:\/\/shopee.com.my\/lanyardhipster"
+    }
 }

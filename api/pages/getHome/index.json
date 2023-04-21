@@ -3,9 +3,8 @@
         "title": "Wear It Proudly",
         "display": true,
         "mainBackground": "\/static\/img\/mainBackground\/mainBackground-pelita.jpg",
-        "attb":"https://unsplash.com/@redaquamedia",
         "typer": {
-            "heading": "We Readystock",
+            "heading": "We Custom",
             "dataText": [
                 "Lanyard",
                 "Mask",
@@ -14,12 +13,12 @@
         }
     },
     "banner": {
-        "imgSrc": "\/static\/img\/WebBanner-raya.png",
-        "label": "Selamat Hari Raya Aidilfitri",
-        "title": "Follow us!",
+        "imgSrc": "\/static\/img\/RibbonBanner-Raya.png",
+        "label": "",
+        "title": "Follow us on Shopee!",
         "link": "https:\/\/shopee.com.my\/lanyardhipster"
     },
-    "introduction": "was established in 2017. We are focusing on providing various types of lanyard consist of readystock and custom lanyard and keychain. We are Malaysian, for Malaysia !",
+    "introduction": "a Malaysian-based company founded in 2017, is committed to offering a diverse selection of lanyards, including both ready-to-order and customizable options, as well as keychains. Our focus on providing high-quality lanyards is driven by our passion for serving Malaysia and its people.",
     "dynamicFields": [
         {
             "type": "container",
@@ -38,11 +37,26 @@
                 {
                     "type": "text",
                     "customClass": "noPadMargin",
-                    "value": "Premium, Elegant, Luxury. Designed for you to be bold and embrace you looks!"
+                    "value": "Experience the ultimate in premium, elegant luxury with our collection, designed to empower you to be bold and embrace your unique style."
                 },
                 {
                     "type": "productCatalogue",
                     "items": [
+                        {
+                            "sku": "kkm_v4_004",
+                            "price": "RM 15",
+                            "label": "Nation's Hero",
+                            "src": "static\/img\/productcatalog\/kkm.jpg",
+                            "collection": "KKM",
+                            "description": "Readystock",
+                            "size": "25mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/"
+                            }
+                        },
                         {
                             "sku": "layar_alyssa_001",
                             "price": "RM 15",
@@ -86,21 +100,6 @@
                             "button": {
                                 "label": "Buy Now",
                                 "url": "https:\/\/shopee.com.my\/product\/47909829\/22805250478\/"
-                            }
-                        },
-                        {
-                            "sku": "kkm_v4_004",
-                            "price": "RM 15",
-                            "label": "Nation Hero",
-                            "src": "static\/img\/productcatalog\/kkm.jpg",
-                            "collection": "KKM",
-                            "description": "Readystock",
-                            "size": "25mm",
-                            "url": "https://shopee.com.my/product/47909829/10941569170/",
-                            "viewmorelabel": "View Details >",
-                            "button": {
-                                "label": "Buy Now",
-                                "url": "https://shopee.com.my/product/47909829/10941569170/"
                             }
                         },
                         {
@@ -215,6 +214,21 @@
                             "src": "static\/img\/productcatalog\/galaxy.jpg",
                             "collection": "UiTM",
                             "description": "Coming Soon",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_glitch_012",
+                            "price": "RM 15",
+                            "label": "Glitch",
+                            "src": "static\/img\/productcatalog\/glitch.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
                             "size": "20mm",
                             "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
                             "viewmorelabel": "View Details >",
