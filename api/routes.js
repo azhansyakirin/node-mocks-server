@@ -15,7 +15,8 @@ const pageRoutes = [
     'getDesign',
     'getTemplate',
     'getSampleLanyard',
-    'getUploadPage'
+    'getUploadPage',
+    'getProducts'
 ];
 
 console.log({...routes, ...pageRoutes})
