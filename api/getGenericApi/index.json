@@ -32,6 +32,7 @@
                         {
                             "type": "select",
                             "isSearchable": false,
+                            "placeholder":"Choose Type",
                             "options": [
                                 {
                                     "id": 1,
