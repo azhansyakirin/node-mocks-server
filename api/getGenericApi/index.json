@@ -18,7 +18,7 @@
         },
         {
             "type": "text",
-            "value": "Varios of design available in our stores. Choose yours!"
+            "value": "Discover your perfect design today from our wide selection of options and add a touch of personality to your style."
         },
         {
             "type": "container",
@@ -28,34 +28,60 @@
                 "lg": 12
             },
             "items": [
-
+                {
+                    "type": "modal",
+                    "label": "",
+                    "watch": false,
+                    "showClose": true,
+                    "items": [
                         {
-                            "type": "select",
-                            "isSearchable": false,
-                            "placeholder":"Choose Type",
-                            "options": [
+                            "type": "modalHead",
+                            "label": "Quick Check Price"
+                        },
+                        {
+                            "type": "modalBody",
+                            "items": [
                                 {
-                                    "id": 1,
-                                    "value": "A001",
-                                    "label": "Lanyard with Buckle"
+                                    "type": "ribbonBanner",
+                                    "imgSrc": "/static/img/Ribbon Banner/RibbonBanner-Raya.png",
+                                    "link": "https://lanyardhipster.com"
                                 },
                                 {
-                                    "id": 2,
-                                    "value": "A002",
-                                    "label": "Lanyard without Buckle"
-                                },
-                                {
-                                    "id": 3,
-                                    "value": "A003",
-                                    "label": "Lanyard with Buckle and Safety Clip"
-                                },
-                                {
-                                    "id": 4,
-                                    "value": "A004",
-                                    "label": "Lanyard without Buckle and Safety Clip"
+                                    "type": "select",
+                                    "isSearchable": false,
+                                    "placeholder": "Choose Type",
+                                    "options": [
+                                        {
+                                            "id": 1,
+                                            "value": "A001",
+                                            "label": "Lanyard With Buckle And Hook",
+                                            "priceInfo": {}
+                                        },
+                                        {
+                                            "id": 2,
+                                            "value": "A002",
+                                            "label": "Lanyard With Hook"
+                                        },
+                                        {
+                                            "id": 3,
+                                            "value": "A003",
+                                            "label": "Lanyard With Safety Clip, Buckle and Hook"
+                                        },
+                                        {
+                                            "id": 4,
+                                            "value": "A004",
+                                            "label": "Lanyard With Safety Clip and Hook"
+                                        }
+                                    ]
                                 }
                             ]
+                        },
+                        {
+                            "type": "modalFooter",
+                            "items": []
                         }
+                    ]
+                }
             ]
         }
     ]

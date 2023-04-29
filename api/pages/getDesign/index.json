@@ -185,11 +185,5 @@
             "src": "\/static\/img\/design\/upsi.jpg",
             "label": "UPSI Esport"
         }
-    ],
-    "promo":{
-        "imgSrc": "\/static\/img\/Ribbon Banner\/RibbonBanner-Election.png",
-        "label": "",
-        "title": "Promo Election",
-        "link": "https:\/\/shopee.com.my\/lanyardhipster"
-    }
+    ]
 }
