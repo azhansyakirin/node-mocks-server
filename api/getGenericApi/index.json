@@ -1,8 +1,8 @@
 {
     "header": {
         "display": true,
-        "title": "Our Products",
-        "mainBackground": "/static/img/mainBackground-cmyk1.jpg"
+        "title": "Test Dynamic Page",
+        "mainBackground": "/static/img/mainBackground-ori.jpg"
     },
     "dynamicFields": [
         {
@@ -14,11 +14,13 @@
             "type": "text",
             "mode": "titleText",
             "customClass": "noPadMargin",
-            "value": "our products"
+            "value": "put title here"
         },
         {
             "type": "text",
-            "value": "Discover your perfect design today from our wide selection of options and add a touch of personality to your style."
+            "color" : "yellow",
+            "mode" : "default",
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Et magnis dis parturient montes nascetur. Aliquet bibendum enim facilisis gravida. Adipiscing commodo elit at imperdiet dui accumsan sit amet nulla. Tellus mauris a diam maecenas sed enim ut sem viverra. Laoreet sit amet cursus sit. A diam maecenas sed enim ut sem viverra aliquet eget. Eu augue ut lectus arcu bibendum at varius vel. Mauris pharetra et ultrices neque ornare aenean euismod elementum nisi."
         },
         {
             "type": "container",
@@ -36,7 +38,7 @@
                     "items": [
                         {
                             "type": "modalHead",
-                            "label": "Quick Check Price"
+                            "label": "Test Modal"
                         },
                         {
                             "type": "modalBody",
@@ -55,7 +57,13 @@
                                             "id": 1,
                                             "value": "A001",
                                             "label": "Lanyard With Buckle And Hook",
-                                            "priceInfo": {}
+                                            "priceRange" : {
+                                                "30": {
+                                                    "min":"30",
+                                                    "max":"49",
+                                                    "price" : "8.90"
+                                                }
+                                            }
                                         },
                                         {
                                             "id": 2,
@@ -73,7 +81,67 @@
                                             "label": "Lanyard With Safety Clip and Hook"
                                         }
                                     ]
-                                }
+                                },
+                                {
+                                    "type":"container",
+                                    "colSize": {
+                                        "sm": 12,
+                                        "md": 12,
+                                        "lg": 12
+                                    },
+                                    "items":[
+                                        {
+                                            "type": "productCatalogue",
+                                            "items": [
+                                                {
+                                                    "sku": "kkm_v4_004",
+                                                    "price": "RM 15",
+                                                    "label": "Nation's Hero",
+                                                    "src": "\/static\/img\/productcatalog\/kkm.jpg",
+                                                    "collection": "KKM",
+                                                    "description": "Readystock",
+                                                    "size": "25mm",
+                                                    "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/",
+                                                    "viewmorelabel": "View Details >",
+                                                    "button": {
+                                                        "label": "Buy Now",
+                                                        "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/"
+                                                    }
+                                                },
+                                                {
+                                                    "sku": "kkm_v4_004",
+                                                    "price": "RM 15",
+                                                    "label": "Nation's Hero",
+                                                    "src": "\/static\/img\/productcatalog\/kkm.jpg",
+                                                    "collection": "KKM",
+                                                    "description": "Readystock",
+                                                    "size": "25mm",
+                                                    "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/",
+                                                    "viewmorelabel": "View Details >",
+                                                    "button": {
+                                                        "label": "Buy Now",
+                                                        "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/"
+                                                    }
+                                                },
+                                                {
+                                                    "sku": "kkm_v4_004",
+                                                    "price": "RM 15",
+                                                    "label": "Nation's Hero",
+                                                    "src": "\/static\/img\/productcatalog\/kkm.jpg",
+                                                    "collection": "KKM",
+                                                    "description": "Readystock",
+                                                    "size": "25mm",
+                                                    "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/",
+                                                    "viewmorelabel": "View Details >",
+                                                    "button": {
+                                                        "label": "Buy Now",
+                                                        "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }                              
                             ]
                         },
                         {

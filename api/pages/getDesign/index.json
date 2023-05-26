@@ -2,7 +2,7 @@
     "header": {
         "title": "Design Catalog",
         "display": true,
-        "mainBackground": "\/static\/img\/mainBackground-design2.jpg",
+        "mainBackground": "\/static\/img\/mainBackground\/mainBackground-design2.jpg",
         "typer": {
             "heading": "We custom",
             "dataText": [
@@ -13,177 +13,151 @@
         }
     },
     "banner": {
-        "imgSrc": "\/static\/img\/Ribbon Banner\/RibbonBanner-Raya.png",
+        "imgSrc": "\/static\/img\/RibbonBanner-Raya.png",
         "label": "",
         "title": "",
         "link": "https:\/\/shopee.com.my\/lanyardhipster"
     },
     "items": [
         {
-            "idx": 26,
-            "src": "\/static\/img\/design\/aisysoffea.jpg",
-            "label": "Aisysoffea"
+            "idx": 47,
+            "src": "\/static\/img\/design\/aisysoffea.jpg"
         },
         {
-            "idx": 5,
-            "src": "\/static\/img\/design\/cpalm.jpg",
-            "label": "CPALM"
+            "idx": 91,
+            "src": "\/static\/img\/design\/amjad.jpg"
         },
         {
-            "idx": 44,
-            "src": "\/static\/img\/design\/flv2.jpg",
-            "label": "Future Leader",
-            "description": "SK Taman Bukit Indah"
-        },
-        {
-            "idx": 42,
-            "src": "\/static\/img\/design\/ifesb mockup.jpg",
-            "label": "IFESB"
-        },
-        {
-            "idx": 38,
-            "src": "\/static\/img\/design\/ipgkkb.jpg",
-            "label": "IPG Kampus Kota Bharu"
+            "idx": 8,
+            "src": "\/static\/img\/design\/binaIhsan.jpg"
         },
         {
             "idx": 44,
-            "src": "\/static\/img\/design\/jkptg.jpg",
-            "label": "Jkptg"
+            "src": "\/static\/img\/design\/boathouse.jpg"
         },
         {
-            "idx": 16,
-            "src": "\/static\/img\/design\/jpat.jpg",
-            "label": "Jabatan Pathology"
+            "idx": 99,
+            "src": "\/static\/img\/design\/cpalm.jpg"
         },
         {
             "idx": 48,
-            "src": "\/static\/img\/design\/mstg.jpg",
-            "label": "Maktab Sains Tok Guru"
+            "src": "\/static\/img\/design\/faqiyshope.jpg"
         },
         {
-            "idx": 51,
-            "src": "\/static\/img\/design\/naseehat.jpg",
-            "label": "Naseehat"
+            "idx": 45,
+            "src": "\/static\/img\/design\/flv2.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/highlightco.jpg",
-            "label": "Highlight Co"
+            "idx": 70,
+            "src": "\/static\/img\/design\/fse umk.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/binaIhsan.jpg",
-            "label": "Bina Ihsan"
+            "idx": 10,
+            "src": "\/static\/img\/design\/hctm.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/keramat.jpg",
-            "label": "Keramat"
+            "idx": 69,
+            "src": "\/static\/img\/design\/highlightco.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/kkm.jpg",
-            "label": "Kementerian Kesihatan Malaysia"
+            "idx": 84,
+            "src": "\/static\/img\/design\/ifesb mockup.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/redipay.jpg",
-            "label": "Redipay"
+            "idx": 69,
+            "src": "\/static\/img\/design\/ipg perlis.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/amjad.jpg",
-            "label": "Amjad Umrahajj"
+            "idx": 31,
+            "src": "\/static\/img\/design\/ipgkkb.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/hctm.jpg",
-            "label": "Hctm"
+            "idx": 70,
+            "src": "\/static\/img\/design\/jkptg.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/ipg perlis.jpg",
-            "label": "Ipg Perlis"
+            "idx": 40,
+            "src": "\/static\/img\/design\/jpat.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/kkpj9.jpg",
-            "label": "Kkpj9"
+            "idx": 11,
+            "src": "\/static\/img\/design\/keramat.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/stm.jpg",
-            "label": "Stm Nih"
+            "idx": 23,
+            "src": "\/static\/img\/design\/kkm dental.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/boathouse.jpg",
-            "label": "Boathouse"
+            "idx": 10,
+            "src": "\/static\/img\/design\/kkm.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/faqiyshope.jpg",
-            "label": "Faqiyshope"
+            "idx": 47,
+            "src": "\/static\/img\/design\/kkpj9.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/fse umk.jpg",
-            "label": "FSE UMK"
+            "idx": 72,
+            "src": "\/static\/img\/design\/kuroda.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/kkm dental.jpg",
-            "label": "KKM Dental"
+            "idx": 96,
+            "src": "\/static\/img\/design\/mockLanyard.png"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/kuroda.jpg",
-            "label": "Kuroda Electric"
+            "idx": 17,
+            "src": "\/static\/img\/design\/mrsm arau.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/mrsm arau.jpg",
-            "label": "MRSM Arau"
+            "idx": 48,
+            "src": "\/static\/img\/design\/mstg.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/panasonic.jpg",
-            "label": "Panasonic Malaysia"
+            "idx": 97,
+            "src": "\/static\/img\/design\/naseehat.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/perodua.jpg",
-            "label": "Perodua Kemaman"
+            "idx": 88,
+            "src": "\/static\/img\/design\/panasonic.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/petron.jpg",
-            "label": "Petron Daelim"
+            "idx": 94,
+            "src": "\/static\/img\/design\/permai.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/pkct.jpg",
-            "label": "Port Klang Cruise Terminal"
+            "idx": 99,
+            "src": "\/static\/img\/design\/perodua.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/sispa unisel.jpg",
-            "label": "Sispa Unisel"
+            "idx": 49,
+            "src": "\/static\/img\/design\/petron.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/srm.jpg",
-            "label": "Sekretariat Rakan Muda UMK"
+            "idx": 14,
+            "src": "\/static\/img\/design\/pkct.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/tudungzone.jpg",
-            "label": "Tudungzone"
+            "idx": 73,
+            "src": "\/static\/img\/design\/redipay.jpg"
         },
         {
-            "idx": 91,
-            "src": "\/static\/img\/design\/upsi.jpg",
-            "label": "UPSI Esport"
+            "idx": 83,
+            "src": "\/static\/img\/design\/sispa unisel.jpg"
+        },
+        {
+            "idx": 12,
+            "src": "\/static\/img\/design\/srm.jpg"
+        },
+        {
+            "idx": 58,
+            "src": "\/static\/img\/design\/stm.jpg"
+        },
+        {
+            "idx": 24,
+            "src": "\/static\/img\/design\/tudungzone.jpg"
+        },
+        {
+            "idx": 7,
+            "src": "\/static\/img\/design\/upsi.jpg"
         }
     ]
 }

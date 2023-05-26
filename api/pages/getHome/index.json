@@ -1,8 +1,8 @@
 {
     "header": {
-        "title": "Salam Lebaran",
+        "title": "Wear It Proudly",
         "display": true,
-        "mainBackground": "\/static\/img\/mainBackground\/mainBackground-pelita.jpg",
+        "mainBackground": "\/static\/img\/mainBackground\/",
         "typer": {
             "heading": "We Custom",
             "dataText": [
@@ -13,7 +13,7 @@
         }
     },
     "banner": {
-        "imgSrc": "\/static\/img\/RibbonBanner-Raya.png",
+        "imgSrc": "\/static\/img\/RibbonBanner-Shopee.png",
         "label": "",
         "title": "Follow us on Shopee!",
         "link": "https:\/\/shopee.com.my\/lanyardhipster"

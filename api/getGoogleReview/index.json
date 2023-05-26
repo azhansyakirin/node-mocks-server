@@ -1,64 +1,53 @@
 {
     "reviews": [
         {
-            "author_name": "Enchek Saril",
-            "author_url": "https:\/\/www.google.com\/maps\/contrib\/108320056515202468115\/reviews",
-            "language": "en",
-            "original_language": "en",
-            "profile_photo_url": "https:\/\/lh3.googleusercontent.com\/a-\/ACB-R5RXxWsGTDhGrzrbpIyu2TsLbU7ewGD1t2lT2CoKeQ=s128-c0x00000000-cc-rp-mo-ba3",
-            "rating": 5,
-            "relative_time_description": "2 months ago",
-            "text": "Good materials, high quality, express services &  worth it! Recommended for those who want it immediately. Thanks for your service.",
-            "time": 1674111066,
-            "translated": false
+            "author_name": "Sharon Ho",
+            "rating": "5",
+            "text": "Very nice and good quality lanyard, friendly and supportive seller, great job!",
+            "translated": false,
+            "relative_time_description": "a year ago"
         },
         {
-            "author_name": "Khairun Ashikin",
-            "author_url": "https:\/\/www.google.com\/maps\/contrib\/105116336895020352039\/reviews",
-            "language": "en",
-            "original_language": "en",
-            "profile_photo_url": "https:\/\/lh3.googleusercontent.com\/a\/AGNmyxZA9aTowQzcWV7dSyQr7h_2J_d1WjwT4sUygxJ_=s128-c0x00000000-cc-rp-mo",
-            "rating": 5,
-            "relative_time_description": "2 months ago",
-            "text": "Cheap and good quality printing. Really helpful with editing and stuff. Will definitely engage with this business for more events in future.",
-            "time": 1674022818,
-            "translated": false
+            "author_name": "Zulhilmi Sidek",
+            "rating": "4",
+            "text": "Alhamdulillah, lanyard lawa dan kemas printing nya",
+            "translated": false,
+            "relative_time_description": "5 months ago"
+        },
+        {
+            "author_name": "Yasmin Tajuddin",
+            "rating": "5",
+            "text": "Very good & fast service. Immediate respond and kind attitude. Definitely recommended to others.",
+            "translated": false,
+            "relative_time_description": "3 years ago"
+        },
+        {
+            "author_name": "Thava Maran",
+            "rating": "5",
+            "text": "Satisfied with the order ;)",
+            "translated": false,
+            "relative_time_description": "1 month ago"
         },
         {
             "author_name": "El Zahra",
-            "author_url": "https:\/\/www.google.com\/maps\/contrib\/107531696414737615288\/reviews",
-            "language": "en",
-            "original_language": "en",
-            "profile_photo_url": "https:\/\/lh3.googleusercontent.com\/a-\/ACB-R5RiYLMlr2NwybRwXf1vO34imAL7HLJ7LYK_Athv78M=s128-c0x00000000-cc-rp-mo",
-            "rating": 5,
-            "relative_time_description": "a year ago",
-            "text": "Been using this service since 2019. A good way for students to create money too through selling customised lanyard. Boleh dapat untung yang banyak jugak! They help me to design and settle everything from A-Z. Affordable price, beautiful design, great service!",
-            "time": 1647249913,
-            "translated": false
+            "rating": "5",
+            "text": "Been using this service since 2019. A good way for students to create money too through selling customised lanyard. Boleh dapat untung yang banyak jugak! They help me to design and settle everything from A-Z. Affordable price, beautiful design, great",
+            "translated": false,
+            "relative_time_description": "8 months ago"
         },
         {
-            "author_name": "Nasyrul Pete",
-            "author_url": "https:\/\/www.google.com\/maps\/contrib\/107723639221532590900\/reviews",
-            "language": "en",
-            "original_language": "en",
-            "profile_photo_url": "https:\/\/lh3.googleusercontent.com\/a-\/ACB-R5SMWf8aTd2ZpjuEMYF_got9SrGoJro0uiEhFu9k=s128-c0x00000000-cc-rp-mo",
-            "rating": 5,
-            "relative_time_description": "8 months ago",
-            "text": "Great Deal!\nGreat Advisor!!\nGreat Sales Team!!\nEasier To Deal With Them With A Good Price And Fast Production From Factory. To Be Honest Lanyard Hispter One Of The Best For Create Your Lanyard",
-            "time": 1658739054,
-            "translated": false
+            "author_name": "Rasyidah Najihah Md Rahim",
+            "rating": "5",
+            "text": "sangat mudah berurusan & lanyard pun cantik :D",
+            "translated": false,
+            "relative_time_description": "2 months ago"
         },
         {
-            "author_name": "Intan Nur Fadlila",
-            "author_url": "https:\/\/www.google.com\/maps\/contrib\/111043634065178856592\/reviews",
-            "language": "en",
-            "original_language": "en",
-            "profile_photo_url": "https:\/\/lh3.googleusercontent.com\/a\/AGNmyxZcB6sJruhKhPvMHMucwfMqJJJgF2pwah8NbpQu=s128-c0x00000000-cc-rp-mo",
-            "rating": 5,
-            "relative_time_description": "3 months ago",
-            "text": "Great quality, fast and reasonable price",
-            "time": 1670830060,
-            "translated": false
+            "author_name": "MHZ DESIGN STUDIO",
+            "rating": "5",
+            "text": "Sangat bagus servis yang diberikan.",
+            "translated": false,
+            "relative_time_description": "3 months ago"
         }
     ]
 }
