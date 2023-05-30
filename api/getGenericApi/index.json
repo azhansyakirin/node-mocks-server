@@ -81,72 +81,20 @@
                                             "label": "Lanyard With Safety Clip and Hook"
                                         }
                                     ]
-                                },
-                                {
-                                    "type":"container",
-                                    "colSize": {
-                                        "sm": 12,
-                                        "md": 12,
-                                        "lg": 12
-                                    },
-                                    "items":[
-                                        {
-                                            "type": "productCatalogue",
-                                            "items": [
-                                                {
-                                                    "sku": "kkm_v4_004",
-                                                    "price": "RM 15",
-                                                    "label": "Nation's Hero",
-                                                    "src": "\/static\/img\/productcatalog\/kkm.jpg",
-                                                    "collection": "KKM",
-                                                    "description": "Readystock",
-                                                    "size": "25mm",
-                                                    "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/",
-                                                    "viewmorelabel": "View Details >",
-                                                    "button": {
-                                                        "label": "Buy Now",
-                                                        "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/"
-                                                    }
-                                                },
-                                                {
-                                                    "sku": "kkm_v4_004",
-                                                    "price": "RM 15",
-                                                    "label": "Nation's Hero",
-                                                    "src": "\/static\/img\/productcatalog\/kkm.jpg",
-                                                    "collection": "KKM",
-                                                    "description": "Readystock",
-                                                    "size": "25mm",
-                                                    "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/",
-                                                    "viewmorelabel": "View Details >",
-                                                    "button": {
-                                                        "label": "Buy Now",
-                                                        "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/"
-                                                    }
-                                                },
-                                                {
-                                                    "sku": "kkm_v4_004",
-                                                    "price": "RM 15",
-                                                    "label": "Nation's Hero",
-                                                    "src": "\/static\/img\/productcatalog\/kkm.jpg",
-                                                    "collection": "KKM",
-                                                    "description": "Readystock",
-                                                    "size": "25mm",
-                                                    "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/",
-                                                    "viewmorelabel": "View Details >",
-                                                    "button": {
-                                                        "label": "Buy Now",
-                                                        "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/"
-                                                    }
-                                                }
-                                            ]
-                                        }
-                                    ]
                                 }                              
                             ]
                         },
                         {
                             "type": "modalFooter",
-                            "items": []
+                            "items": [
+                                {
+                                    "type":"text",
+                                    "mode":"default",
+                                    "fontType":"lexend",
+                                    "customClass":"NoPadMargin",
+                                    "value":"Wear It Proudly"
+                                }
+                            ]
                         }
                     ]
                 }
