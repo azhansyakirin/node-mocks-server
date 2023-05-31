@@ -31,70 +31,44 @@
             },
             "items": [
                 {
-                    "type": "modal",
-                    "label": "",
-                    "watch": false,
-                    "showClose": true,
-                    "items": [
+                    "type":"button",
+                    "label":"Trigger Me",
+                    "variant": "success",
+                    "action":{
+                        "actionUrl":"/api/getModalApi"
+                    }
+                },
+                {
+                    "type": "select",
+                    "isSearchable": false,
+                    "placeholder": "Choose Type",
+                    "options": [
                         {
-                            "type": "modalHead",
-                            "label": "Test Modal"
-                        },
-                        {
-                            "type": "modalBody",
-                            "items": [
-                                {
-                                    "type": "ribbonBanner",
-                                    "imgSrc": "/static/img/Ribbon Banner/RibbonBanner-Raya.png",
-                                    "link": "https://lanyardhipster.com"
-                                },
-                                {
-                                    "type": "select",
-                                    "isSearchable": false,
-                                    "placeholder": "Choose Type",
-                                    "options": [
-                                        {
-                                            "id": 1,
-                                            "value": "A001",
-                                            "label": "Lanyard With Buckle And Hook",
-                                            "priceRange" : {
-                                                "30": {
-                                                    "min":"30",
-                                                    "max":"49",
-                                                    "price" : "8.90"
-                                                }
-                                            }
-                                        },
-                                        {
-                                            "id": 2,
-                                            "value": "A002",
-                                            "label": "Lanyard With Hook"
-                                        },
-                                        {
-                                            "id": 3,
-                                            "value": "A003",
-                                            "label": "Lanyard With Safety Clip, Buckle and Hook"
-                                        },
-                                        {
-                                            "id": 4,
-                                            "value": "A004",
-                                            "label": "Lanyard With Safety Clip and Hook"
-                                        }
-                                    ]
-                                }                              
-                            ]
-                        },
-                        {
-                            "type": "modalFooter",
-                            "items": [
-                                {
-                                    "type":"text",
-                                    "mode":"default",
-                                    "fontType":"lexend",
-                                    "customClass":"NoPadMargin",
-                                    "value":"Wear It Proudly"
+                            "id": 1,
+                            "value": "A001",
+                            "label": "Lanyard With Buckle And Hook",
+                            "priceRange": {
+                                "30": {
+                                    "min": "30",
+                                    "max": "49",
+                                    "price": "8.90"
                                 }
-                            ]
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "value": "A002",
+                            "label": "Lanyard With Hook"
+                        },
+                        {
+                            "id": 3,
+                            "value": "A003",
+                            "label": "Lanyard With Safety Clip, Buckle and Hook"
+                        },
+                        {
+                            "id": 4,
+                            "value": "A004",
+                            "label": "Lanyard With Safety Clip and Hook"
                         }
                     ]
                 }
