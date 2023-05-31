@@ -1,0 +1,414 @@
+{
+    "dynamicFields": [
+        {
+            "type": "modal",
+            "watch": true,
+            "showClose": true,
+            "modalSize": "md",
+            "items": [
+                {
+                    "type": "modalHead",
+                    "label": "Test Modal"
+                },
+                {
+                    "type": "modalBody",
+                    "items": [
+                        {
+                            "type": "ribbonBanner",
+                            "imgSrc": "\/static/img/Ribbon Banner/RibbonBanner-Raya.png",
+                            "link": "https://lanyardhipster.com"
+                        },
+                        {
+                            "type":"text",
+                            "mode":"default",
+                            "value":"Are you sure with the product selected ?\nPlease confirm your detail before checkout.\n\nThank you for buying with us!"
+                        }
+                    ]
+                },
+                {
+                    "type": "modalFooter",
+                    "items": [
+                        {
+                            "type": "text",
+                            "mode": "default",
+                            "fontType": "lexend",
+                            "customClass": "NoPadMargin",
+                            "value": "Wear It Proudly"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "container",
+            "colSize": {
+                "sm": 12,
+                "md": 12,
+                "lg": 12
+            },
+            "items": [
+                {
+                    "type": "text",
+                    "mode": "titleText",
+                    "customClass": "noPadMargin",
+                    "value": "our products"
+                },
+                {
+                    "type": "text",
+                    "customClass": "noPadMargin",
+                    "value": "Experience the ultimate in premium, elegant luxury with our collection, designed to empower you to be bold and embrace your unique style."
+                },
+                {
+                    "type": "productCatalogue",
+                    "items": [
+                        {
+                            "sku": "kkm_v4_004",
+                            "price": "RM 15",
+                            "label": "Nation's Hero",
+                            "src": "\/static\/img\/productcatalog\/kkm.jpg",
+                            "collection": "KKM",
+                            "description": "Readystock",
+                            "size": "25mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/10941569170\/"
+                            }
+                        },
+                        {
+                            "sku": "layar_alyssa_001",
+                            "price": "RM 15",
+                            "label": "Alyssa",
+                            "src": "\/static\/img\/productcatalog\/alyssa.jpg",
+                            "collection": "Layar",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/23617091072\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/23617091072\/"
+                            }
+                        },
+                        {
+                            "sku": "layar_fuzzy_002",
+                            "price": "RM 15",
+                            "label": "Fuzzy",
+                            "src": "\/static\/img\/productcatalog\/fuzzy.jpg",
+                            "collection": "Layar",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/18070773736\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/18070773736\/"
+                            }
+                        },
+                        {
+                            "sku": "layar_mystery_003",
+                            "price": "RM 15",
+                            "label": "Mystery",
+                            "src": "\/static\/img\/productcatalog\/mystery.jpg",
+                            "collection": "Layar",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/22805250478\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/22805250478\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_blackout_002",
+                            "price": "RM 15",
+                            "label": "Blackout",
+                            "src": "\/static\/img\/productcatalog\/blackout.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_blacxy_014",
+                            "price": "RM 15",
+                            "label": "Blacxy",
+                            "src": "\/static\/img\/productcatalog\/blacxy.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_confetti_010",
+                            "price": "RM 15",
+                            "label": "Confetti",
+                            "src": "\/static\/img\/productcatalog\/confetti.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_cyberlux_017",
+                            "price": "RM 15",
+                            "label": "Cyberlux",
+                            "src": "\/static\/img\/productcatalog\/cyberlux.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_electro_016",
+                            "price": "RM 15",
+                            "label": "Electro",
+                            "src": "\/static\/img\/productcatalog\/electro.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_emerald_004",
+                            "price": "RM 15",
+                            "label": "Emerald",
+                            "src": "\/static\/img\/productcatalog\/emerald.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_florest_006",
+                            "price": "RM 15",
+                            "label": "Florest",
+                            "src": "\/static\/img\/productcatalog\/florest.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_galaxy_018",
+                            "price": "RM 15",
+                            "label": "Galaxy",
+                            "src": "\/static\/img\/productcatalog\/galaxy.jpg",
+                            "collection": "UiTM",
+                            "description": "Coming Soon",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_glitch_012",
+                            "price": "RM 15",
+                            "label": "Glitch",
+                            "src": "\/static\/img\/productcatalog\/glitch.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_initial_011",
+                            "price": "RM 15",
+                            "label": "Initial",
+                            "src": "\/static\/img\/productcatalog\/initial.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_magenta_005",
+                            "price": "RM 15",
+                            "label": "Magenta",
+                            "src": "\/static\/img\/productcatalog\/magenta.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_majestic_009",
+                            "price": "RM 15",
+                            "label": "Majestic",
+                            "src": "\/static\/img\/productcatalog\/majestic.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_mixy_015",
+                            "price": "RM 15",
+                            "label": "Mixy",
+                            "src": "\/static\/img\/productcatalog\/mixy.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_navy_003",
+                            "price": "RM 15",
+                            "label": "Navy",
+                            "src": "\/static\/img\/productcatalog\/navy.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_rosxy_013",
+                            "price": "RM 15",
+                            "label": "Rosxy",
+                            "src": "\/static\/img\/productcatalog\/rosxy.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_royale_001",
+                            "price": "RM 15",
+                            "label": "Royale",
+                            "src": "\/static\/img\/productcatalog\/royale.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_signature_008",
+                            "price": "RM 15",
+                            "label": "Signature",
+                            "src": "\/static\/img\/productcatalog\/signature.jpg",
+                            "collection": "UiTM",
+                            "description": "Readystock",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_tropicalblack_019",
+                            "price": "RM 15",
+                            "label": "Tropical Black",
+                            "src": "\/static\/img\/productcatalog\/tropicalblack.jpg",
+                            "collection": "UiTM",
+                            "description": "Discontinued",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        },
+                        {
+                            "sku": "uitm_venom_007",
+                            "price": "RM 15",
+                            "label": "Venom",
+                            "src": "\/static\/img\/productcatalog\/venom.jpg",
+                            "collection": "UiTM",
+                            "description": "Discontinued",
+                            "size": "20mm",
+                            "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/",
+                            "viewmorelabel": "View Details >",
+                            "button": {
+                                "label": "Buy Now",
+                                "url": "https:\/\/shopee.com.my\/product\/47909829\/7636845071\/"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
